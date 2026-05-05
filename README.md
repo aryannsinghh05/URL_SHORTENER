@@ -3,7 +3,10 @@
 A full-stack URL Shortener built using **Node.js, Express, PostgreSQL, and JavaScript**.
 It allows users to convert long URLs into short, shareable links and redirects them efficiently.
 
----
+## 🌍 Live Demo
+--
+https://url-shortener-b2k1.onrender.com/
+--
 
 ## 🚀 Features
 
@@ -78,13 +81,6 @@ http://localhost:3000
 ```
 
 ---
-
-## 🌍 Live Demo
-```
-```
-
----
-
 ## 🧠 How It Works
 
 1. User enters a long URL
